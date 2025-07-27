@@ -1,7 +1,8 @@
 streamlit
-matplotlib
 pandas
 numpy
 scikit-learn
 plotly
 seaborn
+matplotlib
+streamlit-option-menu
